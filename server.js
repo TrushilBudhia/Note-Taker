@@ -3,7 +3,7 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs');
 const app = express();
-const noteData = require('./js/noteData.js');
+const noteData = require('./js/note-data.js');
 let database = require('./db/db.json');
 
 const PORT = process.env.PORT || 3000;

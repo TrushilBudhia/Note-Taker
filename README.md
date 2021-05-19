@@ -35,6 +35,8 @@ node run watch
 ```
 
 ## Assets
+Live demo of the application hosted on Heroku: [Note Taker](https://still-dusk-03326.herokuapp.com/)
+
 The following images shows the functionality of the Note Taker application:
 
 ![Note Taker animated gif of the applications functionality.](./assets/images/Note-Taker-Preview.gif)
