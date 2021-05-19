@@ -4,7 +4,7 @@
 
 ## Description
 
-An application that allows the user to record and organize the notes they create
+An application that allows the user to record notes and to delete the notes they create.
 
 The application uses the express and uniqid package modules.
 
@@ -37,6 +37,8 @@ node run watch
 ## Assets
 The following images shows the functionality of the Note Taker application:
 
+![Note Taker animated gif of the applications functionality.](./assets/images/Note-Taker-Preview.gif)
+
 ![Note Taker screenshot landing page.](./assets/images/Note-Taker-Preview-1.png)
 
 ![Note Taker notes page.](./assets/images/Note-Taker-Preview-2.png)
@@ -58,7 +60,7 @@ Contributions, issues and feature requests are welcome.
 Feel free to check the [issues page](https://github.com/TrushilBudhia/Note-Taker/issues) if you want to contribute.
 
 ## Tests
-There are no tests currently for this project.
+There are no tests currently for this application.
 
 ## Questions
 For any questions, please contact the author:
